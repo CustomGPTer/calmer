@@ -9,4 +9,4 @@ The first release of Calmer, a free anxiety self-help app for Android built on c
 
 Android 8 or later. Full notes: https://customgpter.github.io/calmer/releases.html
 
-SHA-256: d72a1c43e8695f768f620d67ce76b3b9000784edf2e5b10fe69e46250f9e727f
+SHA-256: e7f2b7aeb1ec4b17f501814e72ef38212f5f411a807b976381805bb4cd553120
