@@ -1,12 +1,7 @@
-The first release of Calmer, a free anxiety self-help app for Android built on cognitive behavioural therapy (CBT).
+Calmer 1.0.1 ties the app into TorusApps.com.
 
-- Twenty-second check-ins, and Calm now: breathing, grounding, a ride-the-wave timer and help lines in one tap.
-- Thought Reframe, Worry Lab, Worry Time and Brave Steps.
-- 37 short lessons and ten five-day programmes.
-- Insights, a monthly GAD-7 questionnaire, and a PDF report for your GP or therapist.
-- Health Connect, three widgets, gentle reminders, and password-locked backups.
-- No adverts, no account, nothing to unlock. It cannot go online.
+- About now has Website, Check for updates, More apps, Privacy policy and hello@torusapps.com, all opening torusapps.com in your browser. Calmer itself still never goes online.
+- About shows Developed by Jonathan Jackson.
+- Android 12+ splash now uses Calmer's own background in light and dark mode, so there is no white flash before the opening screen.
 
-Android 8 or later. Full notes: https://customgpter.github.io/calmer/releases.html
-
-SHA-256: e7f2b7aeb1ec4b17f501814e72ef38212f5f411a807b976381805bb4cd553120
+Installs over the earlier version and keeps everything.
